@@ -1,0 +1,52 @@
+ 
+ table,td{
+    border: 3px solid rgba(0, 0, 0, 0);
+    border collapse: collapse;
+ }
+ div{
+    display: flex;
+    justify-content: space-evenly;
+ }
+ 
+ 
+ img{
+    margin-top: 10px;
+    margin-left: 10px;
+    border: 3px solid;
+    border top left radius: 50%;
+    border top right radius: 50%;
+    box shadow: 3px 3px 3px ;
+ 
+    
+ 
+ }
+ table{
+    height: 500px;
+    width: 500px;
+    margin-top: 35px;
+    
+ }
+ td{
+    height: 50px;
+    width: 60px;
+    text-align: center;
+    padding-left: 10px;
+
+ 
+ }
+ h2{
+    color: gold;
+    text-align: center;
+    font-style:oblique;
+    font-size: x-large;
+    
+ }
+ h1{
+    font-style: oblique;
+    margin-top: 10px;
+    color: red;
+    font-size: xx-large;
+ }
+ *{
+    background-color: black;
+ }
